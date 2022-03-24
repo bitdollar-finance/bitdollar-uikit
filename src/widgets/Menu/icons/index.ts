@@ -1,3 +1,4 @@
+export { default as CoinForensicsIcon } from "./CoinForensics";
 export { default as DiscordIcon } from "./Discord";
 export { default as FacebookIcon } from "./Facebook";
 export { default as FarmIcon } from "./Farm";
